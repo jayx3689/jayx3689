@@ -7,3 +7,4 @@
 
 ### 📊 GitHub Stats
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayx3689&show_icons=true&theme=visual_studio_code)
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayx3689&show_icons=true)
