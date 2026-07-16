@@ -21,7 +21,7 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayx3689" height="150" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayx3689&layout=compact&v=new_user_test" height="150" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayx3689&v=final_test" height="150" />
 </p>
 
 ---
