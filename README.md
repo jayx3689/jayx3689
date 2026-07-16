@@ -19,8 +19,9 @@
 
 ### 📊 GitHub Analysis
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayx3689&show_icons=true&v=999" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayx3689&layout=compact&v=999" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=jayx3689&show_icons=true&v=fresh" height="150" />
+  
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=jayx3689&layout=compact&v=fresh" height="150" />
 </p>
 
 ---
