@@ -1,4 +1,4 @@
-# Hi there, I'm Jay 👋
+[# Hi there, I'm Jay 👋
 
 ### 👨‍💻 About Me
 - 🚀 **.NET Developer** dedicated to building high-performance applications.
@@ -19,9 +19,8 @@
 
 ### 📊 GitHub Analysis
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayx3689" height="150" />
-  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayx3689&v=final_test" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayx3689&show_icons=true&v=999" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayx3689&layout=compact&v=999" height="150" />
 </p>
 
 ---
@@ -29,3 +28,4 @@
 ### 📬 How to reach me
 - 💬 Ask me about **.NET, C#, or Copilot tips**.
 - 📫 I'm excited to start my journey in the GitHub community!
+](url)
